@@ -1,7 +1,7 @@
  # Medical Center Management System
 
 
-Problem Statement
+Problem Statement 
 -----------------
 Currently, SUST Medical Centre uses manual (primitive) Management System for maintaining the patient demography and distributing medicine to the patient. In the existing system, doctors and other employees have to spend a lot of time to provide services to the patient because a lot of papers are used to record information. Here, all the tasks (e.g., prescribing patient, delivering medicine, maintaining medicine stock, retrieving records etc.) are tremendously manual and paper dependent. Therefore, an automated online management system needs to be developed.
 
